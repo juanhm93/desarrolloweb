@@ -1,3 +1,25 @@
+/* en css estan formardas las reglas:
+selectores
+declaraciones
+propiedades
+valores */
+
+
 header {
     background: pink;
+    color: red;
 }
+
+/* selector de etiqueta header - section - article - nav  */
+
+/* selector descendente  */
+/* body header div nav ol li a */
+
+/* selector de clases .  */
+/* .link */
+
+/* selector de id  */
+/* #portafolio */
+
+
+
